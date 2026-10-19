@@ -7,5 +7,4 @@ My graphic design and motion design projects created with Canva
 ![A little sip of happiness](<./A little sip of happiness (1).png>)
 
 ## Motion Graphics
-![Ice Cream](<./Ice Cream.mp4>)
 ![ICE](<./ICE.gif>)
