@@ -8,3 +8,4 @@ My graphic design and motion design projects created with Canva
 
 ## Motion Graphics
 ![Ice Cream](<./Ice Cream.mp4>)
+![ICE](<./ICE.gif>)
