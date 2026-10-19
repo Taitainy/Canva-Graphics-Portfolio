@@ -1,4 +1,4 @@
 # Canva-Graphics-Portfolio
 My graphic design and motion design projects created with Canva
 ## Graphics Design
-![My Canva Design](Dew-&-Glow.png)
+![Dew and Glow skincare design](dew-and-glow.png)
