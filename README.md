@@ -6,3 +6,5 @@ My graphic design and motion design projects created with Canva
 ![A little sip of happiness](<./A little sip of happiness.png>)
 ![A little sip of happiness](<./A little sip of happiness (1).png>)
 
+## Motion Graphics
+
